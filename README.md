@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sangeet-web
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning  Flutter
+- 👀 I’m interested in Advanced Data Science
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Sangeetbd@gmail.com
 
